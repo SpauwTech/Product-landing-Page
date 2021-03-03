@@ -1,2 +1,2 @@
 # Product-landing-Page
-FreecodeAcademy Project3 ,Product Landing page.
+This is my Product Landing Page that I have build for FreeCodeCamp Project 3.
