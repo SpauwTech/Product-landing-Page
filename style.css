@@ -14,7 +14,7 @@ header {
   display: flex;
   align-items: center;
   position: fixed;
-  background: white;
+  background: #add8e6;
 }
 header img {
   padding-left: 50px;
@@ -34,6 +34,7 @@ header ul {
 
 nav {
   width: 100%;
+  font-family: "Akaya Telivigala", cursive;
 }
 
 #sign-up {
@@ -62,7 +63,9 @@ nav {
   justify-content: center;
   flex-direction: column;
 }
-
+.strijder {
+  background-color: rgba(129, 207, 224, 0.3);
+}
 @media screen and (max-width: 600px) {
   nav {
     display: none;
@@ -75,4 +78,13 @@ nav {
   header {
     position: static;
   }
+}
+.Title h1 {
+  font-size: px;
+  margin: 0;
+}
+.Title h2 {
+  font-size: 20px;
+  line-height: 20px;
+  margin: 0;
 }
